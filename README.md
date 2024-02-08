@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rohitrsb024@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OIXEFnsMYPdwiA36m8oQu08RfnHDTYbW/view](https://drive.google.com/file/d/1OIXEFnsMYPdwiA36m8oQu08RfnHDTYbW/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ac7P4ZCSvLp8fG3D5ppfdFtHAEL_6NeS/view?usp=drive_link](https://drive.google.com/file/d/1Ac7P4ZCSvLp8fG3D5ppfdFtHAEL_6NeS/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

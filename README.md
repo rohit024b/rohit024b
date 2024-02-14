@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Test Automation & Frontend**
 
-- 💼 Access all my key projects <a href=".f4 mb-2 text-normal">here</a>
-
 - 📫 How to reach me - **rohitrsb024@gmail.com**
 
 - 📄 Know about my experiences - [My Resume](https://drive.google.com/file/d/1ME2cwWRdade-Q784a4k9jXhAC2_cOwOW/view?usp=drive_link)

@@ -7,13 +7,17 @@
 
 - 💬 Ask me about **Test Automation & Frontend**
 
-- 📫 How to reach me **rohitrsb024@gmail.com**
+- 💼 Access all my key projects <a href=".f4 mb-2 text-normal">here</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ac7P4ZCSvLp8fG3D5ppfdFtHAEL_6NeS/view?usp=drive_link](https://drive.google.com/file/d/1Ac7P4ZCSvLp8fG3D5ppfdFtHAEL_6NeS/view?usp=drive_link)
+- 📫 How to reach me - **rohitrsb024@gmail.com**
+
+- 📄 Know about my experiences - [My Resume](https://drive.google.com/file/d/1ME2cwWRdade-Q784a4k9jXhAC2_cOwOW/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="left">All My Contact Details - Access my Profile Card ⬇️ </h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-bhise-917076198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-bhise-917076198/" height="30" width="40" /></a>
+  <a href="https://rohit024b.github.io/ProfileCard/" target="blank"><img align="center" src="https://lordicon.com/icons/wired/gradient/734-id-business-card-1.gif" alt="https://rohit024b.github.io/ProfileCard/" height="70" width="70"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

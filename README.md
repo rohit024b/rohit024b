@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhise</h1>
-<h3 align="center">Experienced Automation Developer & Aspiring Full Stack Web Developer</h3>
+<h3 align="center">Experienced Automation Developer & Aspiring Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit024b&label=Profile%20views&color=0e75b6&style=flat" alt="rohit024b" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development Course**
+- 🌱 I’m currently pursuing **Full Stack Web Development Course @-MASAI School**
 
-- 💬 Ask me about **Test Automation & Frontend**
+- 💬 Ask me about **Java-Script**
 
 - 📫 How to reach me - **rohitrsb024@gmail.com**
 
-- 📄 Know about my experiences - [My Resume](https://drive.google.com/file/d/1ME2cwWRdade-Q784a4k9jXhAC2_cOwOW/view?usp=drive_link)
+- 📄 Know about my experiences - [My Resume](https://drive.google.com/file/d/13efEAlDAE4dZfVWnOvvy5uyVOmsnIRsH/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>

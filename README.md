@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhise</h1>
-<h3 align="center">Experienced Automation Developer & Aspiring Full Stack Developer</h3>
+
+<img src="https://i.imgur.com/6kqpq4X.png" title="source: imgur.com" />
+
+<h3 align="center">Experienced Automation Developer & Aspiring Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit024b&label=Profile%20views&color=0e75b6&style=flat" alt="rohit024b" /> </p>
 
@@ -15,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <h4 align="left">All My Contact Details - Access my Profile Card ⬇️ </h4>
 <p align="left">
-  <a href="https://rohit024b.github.io/ProfileCard/" target="blank"><img align="center" src="https://lordicon.com/icons/wired/gradient/734-id-business-card-1.gif" alt="https://rohit024b.github.io/ProfileCard/" height="70" width="70"></a>
+  <a href="https://rohit024b.github.io/ProfileCard/" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:740/1*Rof6MoJXFT4hbyk1uLwu5Q.gif" alt="https://rohit024b.github.io/ProfileCard/" height="50" width="100"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

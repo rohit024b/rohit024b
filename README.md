@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit024b&label=Profile%20views&color=0e75b6&style=flat" alt="rohit024b" /> </p>
 
-- 🌱 I’m currently working as a  **Full Stack Web Development**
+- 🌱 I’m currently working as an **Sofware Developer (Full-Stack)**
 
-- 💬 Ask me about **Java-Script, Node.Js, Express, React, Redux, REST-API**
+- 💬 Ask me about **JavaScript, Node.js, Express, React, Redux, REST-API**
 
 - 📫 How to reach me - **rohitrsb024@gmail.com**
 
